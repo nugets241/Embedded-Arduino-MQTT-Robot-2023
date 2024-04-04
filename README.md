@@ -1,5 +1,9 @@
 # Autonomous Robot Control System
 
+![Arduino Car](Images/ArduinoCar1.jpg)
+
+This image shows the Autonomous Robot Control System in action.
+
 This project implements an autonomous robot control system using Arduino, ESP8266, and MQTT for communication. The system employs LIDAR for distance sensing, a compass for orientation, and PWM for motor control. The ESP8266 module is utilized for wireless communication using MQTT, enabling remote command processing and telemetry.
 
 ## Components
